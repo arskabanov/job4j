@@ -8,11 +8,11 @@
 * @version 1
 */
 public class Calculate {
-	
+/**
+* Пока только метод main
+*/
 	public static void main (String[] args) {
 		System.out.println("Hello World");
 	}
-	/**
-* Тут будет описание метода
-*/
+	
 }
