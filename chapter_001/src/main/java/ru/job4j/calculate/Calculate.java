@@ -1,5 +1,4 @@
-﻿package ru.job4j.calculate;
-
+package ru.job4j.calculate;
 /**
 * Class Класс пока для вывода текста.
 * В дальнейшем для арифметических вычеслений
